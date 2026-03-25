@@ -6,10 +6,10 @@
 }
 
 .header {
-    background-color: antiquewhite;
+    background-color: rgb(233, 0, 0);
     width: 100%;
-    color: black;
-    height: 64px;
+    color: rgb(254, 254, 254);
+    height: 78px;
     text-align: center;
 }
 
